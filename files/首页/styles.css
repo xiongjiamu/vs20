@@ -4028,7 +4028,7 @@
   left:0px;
   top:0px;
   width:510px;
-  height:260px;
+  height:380px;
   visibility:hidden;
   background-image:none;
 }
@@ -4062,7 +4062,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:120px;
   width:510px;
   height:260px;
 }
@@ -4098,7 +4098,7 @@
   border-width:0px;
   position:absolute;
   left:215px;
-  top:20px;
+  top:140px;
   width:81px;
   height:27px;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
@@ -4126,7 +4126,7 @@
   border-width:0px;
   position:absolute;
   left:58px;
-  top:80px;
+  top:200px;
   width:396px;
   height:56px;
   font-family:'微软雅黑';
@@ -4166,7 +4166,7 @@
   border-width:0px;
   position:absolute;
   left:166px;
-  top:176px;
+  top:296px;
   width:180px;
   height:50px;
   font-family:'微软雅黑';
