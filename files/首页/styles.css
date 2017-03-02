@@ -3534,7 +3534,10 @@
   height:503px;
   background:inherit;
   background-color:rgba(228, 228, 228, 1);
-  border:none;
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(0, 120, 215, 1);
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -4046,7 +4049,10 @@
   height:260px;
   background:inherit;
   background-color:rgba(228, 228, 228, 1);
-  border:none;
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(0, 120, 215, 1);
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
